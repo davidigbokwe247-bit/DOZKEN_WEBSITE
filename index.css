@@ -745,7 +745,7 @@ h2 em {
         right: 0;
         left: 0;
         justify-content: center;
-        gap: 25px;
+        gap: clamp(8px, 3vw, 18px);
         padding: 13px 10px;
         background: rgba(12, 20, 29, .84);
     }
