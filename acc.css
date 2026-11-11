@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    background-color: red;
+}
+
+p{
+    background-color: burlywood;
+}
+.logo{
+    width: 100%;
+    background-color: coral;
+}
+
+.wood{
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.metal{
+    width: 100%;
+    background-color: chocolate;
+}
+
+
+.pin{
+    width: 100%;
+    background-color: orange;
+}
+
+img{
+    width: 100%;
+}
+
+.ark{
+    width: 100%;
+    background-color: peru;
+}
+
+.active{
+    width: 100%;
+    background-color: brown;
+}

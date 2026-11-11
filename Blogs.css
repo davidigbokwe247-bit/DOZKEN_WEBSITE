@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.logo{
+    background-color: gray;
+    
+}
+
+.container{
+background-color:brown
+}
+
+.art{
+    width: 100%;
+    background-color:burlywood ;
+}
+
+.ark{
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.art{
+    width: 100%;
+}
+
+.abbre{
+    width: 100%;
+    background-color: chocolate;
+}
+
+.alfar{
+    width: 100%;
+    background-color: burlywood;
+}
+
+img{
+    width: 100%;
+}
+
+video{
+    width: 100%;
+}

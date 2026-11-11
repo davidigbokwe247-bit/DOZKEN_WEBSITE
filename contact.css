@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.logo{
+    background-color: red;
+    padding: 0%;
+}
+.container{
+  width: 100%;
+ background-color: peru;
+
+}

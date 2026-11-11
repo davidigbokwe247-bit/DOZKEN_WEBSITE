@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+  width: 100%;
+  background-color: red;
+}
+
+.container{
+    width: 100;
+    background-color: peru;
+}
+
+.afin{
+    width: 100%;
+    background-color: coral;
+}
+
+.reyan{
+    width: 100%;
+    background-color: peru;
+}
+
+.may{
+    width: 100%;
+    background-color: coral;
+}
+
+img{
+    width: 100%;
+}
+
+video{
+    width: 100%;
+}
+

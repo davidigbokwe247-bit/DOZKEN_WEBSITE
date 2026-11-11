@@ -1,0 +1,66 @@
+
+.sk{
+    width: 100%;
+    background-color:  red;
+}
+
+.bd{
+    width: 100%;
+    background-color: red;
+}
+
+p{
+    background-color: red;
+}
+
+section  .sk  div p{
+    display: flex;
+    background-color: red;
+}
+
+  body {
+    background: #07182D;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px 20px;
+    color: white;
+}
+
+.logo {
+    width: 180px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #C0C9D4;
+    font-size: 28px;
+}
+
+.tagline {
+    color: #B7C5D5;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.description {
+    margin-top: 25px;
+    color: #E0E6ED;
+}
+
+.whatsapp-button {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 16px 30px;
+    background: linear-gradient(135deg, #25D366, #128C7E);
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.whatsapp-button:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px #25D36666;
+}
